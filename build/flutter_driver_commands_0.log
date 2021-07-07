@@ -1,0 +1,12 @@
+2021-07-07 12:44:33.852729 >>> {command: get_health}
+2021-07-07 12:44:34.063760 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-07-07 12:44:34.067369 >>> {command: request_data, timeout: 60000}
+2021-07-07 12:44:37.590116 <<< {isError: false, response: {message: {"result":"false","failureDetails":["{\"methodName\":\"Scrolling test\",\"details\":\"══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞═════════════════\\nThe following message was thrown:\\nMultiple exceptions (2) were detected during the running of the\\ncurrent test, and at least one was unexpected.\\n═════════════════════════════════════════════════════════════════\\n\"}"]}}, type: _extensionType, method: ext.flutter.driver}
+2021-07-07 12:49:31.281651 >>> {command: get_health}
+2021-07-07 12:49:31.490927 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-07-07 12:49:31.494711 >>> {command: request_data, timeout: 60000}
+2021-07-07 12:49:34.617832 <<< {isError: false, response: {message: {"result":"false","failureDetails":["{\"methodName\":\"Scrolling test\",\"details\":\"══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞═════════════════\\nThe following message was thrown:\\nMultiple exceptions (2) were detected during the running of the\\ncurrent test, and at least one was unexpected.\\n═════════════════════════════════════════════════════════════════\\n\"}"]}}, type: _extensionType, method: ext.flutter.driver}
+2021-07-07 12:54:13.994904 >>> {command: get_health}
+2021-07-07 12:54:14.182201 <<< {isError: false, response: {status: ok}, type: _extensionType, method: ext.flutter.driver}
+2021-07-07 12:54:14.186027 >>> {command: request_data, timeout: 60000}
+2021-07-07 12:54:17.358120 <<< {isError: false, response: {message: {"result":"false","failureDetails":["{\"methodName\":\"Scrolling test\",\"details\":\"══╡ EXCEPTION CAUGHT BY FLUTTER TEST FRAMEWORK ╞═════════════════\\nThe following message was thrown:\\nMultiple exceptions (2) were detected during the running of the\\ncurrent test, and at least one was unexpected.\\n═════════════════════════════════════════════════════════════════\\n\"}"]}}, type: _extensionType, method: ext.flutter.driver}
