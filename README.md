@@ -2,6 +2,10 @@
 
 This is to show the integration testing and the addition of Ads within the app
 
+To run the integration test, run $ flutter drive --driver integration_test/driver.dart --target integration_test/app_test.dart
+
+To see the AdMob specific files, go to the ad_helper.dart file in the root directory of the midterm. 
+
 Original project repo located here: `https://github.com/Jnpk1/Csc4360-Project-1.git`
 
 link to website: `https://github.com/Jnpk1/Csc4360-Project-1`
